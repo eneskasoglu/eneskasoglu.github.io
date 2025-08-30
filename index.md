@@ -9,6 +9,8 @@ title: "CV / Profil"
 Embedded & FPGA Engineer · Köln, DE  
 ✉️ enes@example.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ENES) · 💻 [GitHub](https://github.com/ENES)
 
+[📄 CV’mi indir](assets/cv/Enes-Kasoglu-CV.pdf){: .btn .btn-primary }
+
 ---
 
 ## Özet
