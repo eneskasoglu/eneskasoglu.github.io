@@ -1,11 +1,2 @@
 title: "Enes Kaşoğlu"
-author: "Enes Kaşoğlu"
-description: "Embedded & FPGA Engineer"
 theme: minima
-
-minima:
-  skin: classic
-
-sass:
-  load_paths:
-    - assets/css
