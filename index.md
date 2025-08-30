@@ -3,7 +3,7 @@ layout: page
 title: "CV / Profil"
 ---
 
-<img src="/assets/img/photo_1.jpg" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
+<img src="/assets/img/me.png" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
 
 # Enes Kaşoğlu
 Embedded & FPGA Engineer · Köln, DE  
