@@ -1,16 +1,4 @@
 title: "Enes Kaşoğlu"
-email: enes@example.com
-description: >-
-  Embedded & FPGA Engineer
-baseurl: "/enes"
 url: "https://eneskasoglu.github.io"
-
+baseurl: "/enes"
 theme: minima
-
-plugins:
-  - jekyll-feed
-
-header_pages:
-  - index.md
-  - blog.md
-  - contact.md
