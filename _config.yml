@@ -1,3 +1,4 @@
 title: "Enes Kaşoğlu"
-url: "https://eneskasoglu.github.io/enes"
+url: "https://eneskasoglu.github.io"
+baseurl: "/enes"   # domain yok, sondaki / yok
 theme: minima
