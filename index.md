@@ -69,7 +69,7 @@ FPGA tabanlı görüntü işleme, endüstriyel Linux sistemleri, gerçek zamanl�
 
 ---
 
-## Diller
+## Dillerr
 Türkçe (ana dil), İngilizce (ileri), Almanca (A2–B1, sınav hazırlık)
 
 ---
