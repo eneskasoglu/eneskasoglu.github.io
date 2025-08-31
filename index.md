@@ -6,75 +6,75 @@ title: "About me"
 <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
 
 # Enes Kaşoğlu
-Embedded & FPGA Engineer · Köln, DE  
+Embedded & FPGA Engineer · Cologne, DE  
 ✉️ enes@example.com · 🔗 [LinkedIn](https://www.linkedin.com/in/eneskasoglu) · 💻 [GitHub](https://github.com/eneskasoglu)
 
-[📄 CV’mi indir]({{ '/assets/cv/Enes-Kasoglu-CV.pdf' | relative_url }}){: .btn .btn-primary }
+[📄 Download my CV]({{ '/assets/cv/Enes-Kasoglu-CV.pdf' | relative_url }}){: .btn .btn-primary }
 
 ---
 
-## Özet
-Gerçek zamanlı gömülü sistemler, FPGA ve Linux tabanlı çözümler geliştiriyorum. Donanımdan uygulamaya **uçtan uca** geliştirme (driver ↔ userspace entegrasyonu), **düşük gecikmeli görüntü işleme**, **Yocto/Buildroot**, **GStreamer**, **DMA** ve **CI/CD** rutinleri temel uzmanlık alanlarım.
+## Summary
+I develop real-time embedded systems, FPGA and Linux-based solutions. My expertise covers **end-to-end development** (driver ↔ userspace integration), **low-latency video processing**, **Yocto/Buildroot**, **GStreamer**, **DMA**, and **CI/CD** pipelines.
 
-> Focus: Zynq/ZU+ MPSoC, Spartan-7, Vitis/Vivado, device-tree, U-Boot, kernel modülleri, userspace I/O (UIO).
-
----
-
-## Deneyim
-- **Embedded Software Engineer — Bertrandt (DE)** · *2023–güncel*  
-  - Raylı sistem konvertör projeleri (örn. B7 serisi **Aux-Converter**), otomotiv/rail validasyon & test.  
-  - **C/C++** (RTOS & Linux), **Python** test/araç scriptleri, **Git & JIRA** süreçleri, ASPICE uyumlu geliştirme.  
-  - Gömülü Linux üzerinde sürücü ↔ uygulama entegrasyonu, dokümantasyon ve saha test desteği.
-
-- **FPGA & Görüntü İşleme — Staj & R&D** · *2024–2025*  
-  - **Spartan-7 SP701 + ADV7511**: MIPI giriş → PL’de temel işleme → HDMI çıkış pipeline denemeleri.  
-  - **ZUBoard 1CG**: Tiny-YOLO tabanlı nesne algılama PoC; düşük gecikme optimizasyonları (GStreamer + appsink).  
-  - **Yocto/Buildroot** imajları, kernel konfigürasyonu, DTS/overlay düzenleme, kullanıcı-uzayı arayüzleri.
+> Focus: Zynq/ZU+ MPSoC, Spartan-7, Vitis/Vivado, device tree, U-Boot, kernel modules, userspace I/O (UIO).
 
 ---
 
-## Seçili Projeler
+## Experience
+- **Embedded Software Engineer — Bertrandt (DE)** · *2023–present*  
+  - Railway converter projects (e.g. B7 series **Aux-Converter**), automotive/rail validation & testing.  
+  - **C/C++** (RTOS & Linux), **Python** test/tool scripts, **Git & JIRA** workflows, ASPICE-compliant development.  
+  - Driver ↔ application integration on Embedded Linux, documentation, and on-site test support.
+
+- **FPGA & Video Processing — Internship & R&D** · *2024–2025*  
+  - **Spartan-7 SP701 + ADV7511**: MIPI input → basic PL processing → HDMI output pipeline experiments.  
+  - **ZUBoard 1CG**: Tiny-YOLO based object detection PoC; low-latency optimizations (GStreamer + appsink).  
+  - **Yocto/Buildroot** images, kernel configuration, DTS/overlay customization, user-space interfaces.
+
+---
+
+## Selected Projects
 - **Low-Latency Video Pipeline (FPGA + Linux)**  
-  PL tarafında minimal görüntü işleme; PS tarafında GStreamer ile encode/display; buffer yönetimi ve **<10–20 ms** hedef gecikme için profil/optimizasyon.
-- **UIO ile IP Kontrolü (Userspace I/O)**  
-  Vivado IP’lerinin Linux userspace’ten register erişimi; basit CLI aracı ve Python wrapper.
-- **Yocto + GStreamer + OpenCV Entegrasyonu**  
-  Özel katman, paket tarifleri, appsink ile frame yakalama ve C++/Python demo uygulamaları.
-- **Test & Araç Scriptleri**  
-  Python/Batch ile otomasyon; log toplama, ölçüm raporu oluşturma, donanım-in-the-loop yardımcıları.
+  Minimal PL-side image processing; PS-side GStreamer encode/display; buffer management and profiling/optimization for **<10–20 ms** target latency.
+- **Userspace I/O (UIO) IP Control**  
+  Register access to Vivado IPs from Linux userspace; simple CLI tool and Python wrapper.  
+- **Yocto + GStreamer + OpenCV Integration**  
+  Custom layer, package recipes, appsink-based frame capture, C++/Python demo apps.  
+- **Test & Tool Scripts**  
+  Python/Batch automation: log collection, measurement reporting, hardware-in-the-loop helpers.
 
 ---
 
-## Teknik Beceriler
-**Diller:** C, C++, Python, Bash  
-**FPGA/EDA:** Vivado/Vitis, HLS (temel), Verilog/VHDL (temel-orta)  
-**Linux (Embedded):** Yocto, Buildroot, Device-Tree, U-Boot, Kernel modülleri, systemd  
-**Multimedya:** GStreamer (appsink/appsrc), v4l2, OpenCV  
-**Araçlar:** Git, CMake, JIRA, Docker/Podman, VS Code, Markdown  
-**Alanlar:** Düşük gecikmeli video, DMA & bellek eşlemesi, sürücü-kullanıcı uzayı köprüleri, ASPICE pratikleri
+## Technical Skills
+**Languages:** C, C++, Python, Bash  
+**FPGA/EDA:** Vivado/Vitis, HLS (basic), Verilog/VHDL (basic-intermediate)  
+**Linux (Embedded):** Yocto, Buildroot, Device Tree, U-Boot, Kernel modules, systemd  
+**Multimedia:** GStreamer (appsink/appsrc), v4l2, OpenCV  
+**Tools:** Git, CMake, JIRA, Docker/Podman, VS Code, Markdown  
+**Domains:** Low-latency video, DMA & memory mapping, driver-userspace bridges, ASPICE practices
 
 ---
 
-## Eğitim & Sertifikalar (özet)
+## Education & Certifications (highlights)
 - **Embedded Linux / Yocto** – Udemy (2023)  
-- **C Programlama** – C ve Sistem Programcıları Derneği (çeşitli dönemler)  
-- **Python** – C ve Sistem Programcıları Derneği (2024)  
-- **FreeRTOS / RTOS**, **Vivado Timing & VHDL** – Çeşitli eğitimler  
-> Sertifika/detaylar CV’de.
+- **C Programming** – Association of C and System Programmers (various terms)  
+- **Python** – Association of C and System Programmers (2024)  
+- **FreeRTOS / RTOS**, **Vivado Timing & VHDL** – Various trainings  
+> Certificates/details available in CV.
 
 ---
 
-## Topluluk & İlgi Alanları
-FPGA tabanlı görüntü işleme, endüstriyel Linux sistemleri, gerçek zamanlılık ve **HW-SW co-design**. Boş zamanlarda maker projeleri, Raspberry Pi ve açık kaynak.
+## Community & Interests
+FPGA-based video processing, industrial Linux systems, real-time systems, and **HW-SW co-design**. In free time: maker projects, Raspberry Pi, and open-source.
 
 ---
 
-## Dillerr
-Türkçe (ana dil), İngilizce (ileri), Almanca (A2–B1, sınav hazırlık)
+## Languages
+Turkish (native), English (advanced), German (A2–B1, exam preparation)
 
 ---
 
-## İletişim
+## Contact
 - LinkedIn: [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
 - GitHub: [github.com/eneskasoglu](https://github.com/eneskasoglu)  
-- E-posta: enes@example.com
+- Email: enes@example.com
