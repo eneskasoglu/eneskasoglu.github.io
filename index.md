@@ -70,7 +70,7 @@ FPGA-based video processing, industrial Linux systems, real-time systems, and **
 ---
 
 ## Languages
-Turkish (native), English (advanced), German (A2–B1, exam preparation)
+Turkish (native), English (C1), German (B1)
 
 ---
 
