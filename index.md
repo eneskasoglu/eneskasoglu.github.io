@@ -6,14 +6,15 @@ title: "About me"
 <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
 
 # Enes Kaşoğlu
-Embedded & FPGA Engineer · Cologne, DE  
-✉️ enes@eneskasoglu.com · 🔗 [LinkedIn](https://www.linkedin.com/in/eneskasoglu) · 💻 [GitHub](https://github.com/eneskasoglu)
+Embedded Software Engineer · Cologne, DE   ·
+🔗 [LinkedIn](https://www.linkedin.com/in/eneskasoglu)  ·
+💻 [GitHub](https://github.com/eneskasoglu) ·
+✉️ enes@eneskasoglu.com ·
 
 [📄 Download my CV]({{ '/assets/cv/Enes-Kasoglu-CV.pdf' | relative_url }}){: .btn .btn-primary }
 
 ---
 
-## Summary
 I develop real-time embedded systems, FPGA and Linux-based solutions. My expertise covers **end-to-end development** (driver ↔ userspace integration), **low-latency video processing**, **Yocto/Buildroot**, **GStreamer**, **DMA**, and **CI/CD** pipelines.
 
 > Focus: Zynq/ZU+ MPSoC, Spartan-7, Vitis/Vivado, device tree, U-Boot, kernel modules, userspace I/O (UIO).
