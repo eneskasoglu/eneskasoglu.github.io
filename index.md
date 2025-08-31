@@ -7,7 +7,7 @@ title: "About me"
 
 # Enes Kaşoğlu
 Embedded & FPGA Engineer · Cologne, DE  
-✉️ enes@example.com · 🔗 [LinkedIn](https://www.linkedin.com/in/eneskasoglu) · 💻 [GitHub](https://github.com/eneskasoglu)
+✉️ enes@eneskasoglu.com · 🔗 [LinkedIn](https://www.linkedin.com/in/eneskasoglu) · 💻 [GitHub](https://github.com/eneskasoglu)
 
 [📄 Download my CV]({{ '/assets/cv/Enes-Kasoglu-CV.pdf' | relative_url }}){: .btn .btn-primary }
 
@@ -77,4 +77,4 @@ Turkish (native), English (C1), German (B1)
 ## Contact
 - LinkedIn: [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
 - GitHub: [github.com/eneskasoglu](https://github.com/eneskasoglu)  
-- Email: enes@example.com
+- Email: enes@eneskasoglu.com
