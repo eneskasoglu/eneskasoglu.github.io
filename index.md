@@ -3,16 +3,27 @@ layout: page
 title: "About me"
 ---
 
-<img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Enes Kasoglu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
 
 # Enes Kaşoğlu
 Embedded & FPGA Engineer · Cologne, DE  
-✉️ enes@eneskasoglu.com · 🔗 [LinkedIn](https://www.linkedin.com/in/eneskasoglu) · 💻 [GitHub](https://github.com/eneskasoglu)
 
-[📄 Download my CV]({{ '/assets/cv/Enes-Kasoglu-CV.pdf' | relative_url }}){: .btn .btn-primary }
+<p style="text-align:center;">
+  <a href="mailto:enes@eneskasoglu.com"><i class="fas fa-envelope"></i> enes@eneskasoglu.com</a> · 
+  <a href="https://www.linkedin.com/in/eneskasoglu" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> · 
+  <a href="https://github.com/eneskasoglu" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+</p>
+
+<p style="text-align:center;">
+  <a href="{{ '/assets/cv/Enes-Kasoglu-CV.pdf' | relative_url }}" class="btn btn-primary">
+    📄 Download my CV
+  </a>
+</p>
 
 ---
-
 
 I develop real-time embedded systems, FPGA and Linux-based solutions. My expertise covers **end-to-end development** (driver ↔ userspace integration), **low-latency video processing**, **Yocto/Buildroot**, **GStreamer**, **DMA**, and **CI/CD** pipelines.
 
@@ -69,12 +80,14 @@ FPGA-based video processing, industrial Linux systems, real-time systems, and **
 
 ---
 
-## Languages
-Turkish (native), English (C1), German (B1)
+## 🌍 Languages
+- 🇹🇷 **Türkçe**
+- 🇬🇧 **English**
+- 🇩🇪 **Deutsch**
 
 ---
 
 ## Contact
-- LinkedIn: [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
-- GitHub: [github.com/eneskasoglu](https://github.com/eneskasoglu)  
-- Email: enes@eneskasoglu.com
+- <i class="fab fa-linkedin"></i> [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
+- <i class="fab fa-github"></i> [github.com/eneskasoglu](https://github.com/eneskasoglu)  
+- <i class="fas fa-envelope"></i> [enes@eneskasoglu.com](mailto:enes@eneskasoglu.com)
