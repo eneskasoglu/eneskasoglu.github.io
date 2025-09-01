@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "CV / Profil"
+permalink: /about/
 ---
 
 <img src="/assets/img/me.png" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
