@@ -9,10 +9,10 @@ title: "About me"
 <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Enes Kasoglu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
 
 # Enes Kaşoğlu
-Embedded & FPGA Engineer · Cologne, DE  
+Embedded Software Engineer · Cologne, DE  
 
 <p style="text-align:center;">
-  <a href="mailto:enes@eneskasoglu.com"><i class="fas fa-envelope"></i> enes@eneskasoglu.com</a> · 
+  <a href="mailto:eneskasoglu@gmail.com"><i class="fas fa-envelope"></i> eneskasoglu@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/eneskasoglu" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> · 
   <a href="https://github.com/eneskasoglu" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 </p>
@@ -25,65 +25,69 @@ Embedded & FPGA Engineer · Cologne, DE
 
 ---
 
-I develop real-time embedded systems, FPGA and Linux-based solutions. My expertise covers **end-to-end development** (driver ↔ userspace integration), **low-latency video processing**, **Yocto/Buildroot**, **GStreamer**, **DMA**, and **CI/CD** pipelines.
-
-> Focus: Zynq/ZU+ MPSoC, Spartan-7, Vitis/Vivado, device tree, U-Boot, kernel modules, userspace I/O (UIO).
-
----
-
-## Experience
-- **Embedded Software Engineer — Bertrandt (DE)** · *2023–present*  
-  - Railway converter projects (e.g. B7 series **Aux-Converter**), automotive/rail validation & testing.  
-  - **C/C++** (RTOS & Linux), **Python** test/tool scripts, **Git & JIRA** workflows, ASPICE-compliant development.  
-  - Driver ↔ application integration on Embedded Linux, documentation, and on-site test support.
-
-- **FPGA & Video Processing — Internship & R&D** · *2024–2025*  
-  - **Spartan-7 SP701 + ADV7511**: MIPI input → basic PL processing → HDMI output pipeline experiments.  
-  - **ZUBoard 1CG**: Tiny-YOLO based object detection PoC; low-latency optimizations (GStreamer + appsink).  
-  - **Yocto/Buildroot** images, kernel configuration, DTS/overlay customization, user-space interfaces.
+## About Me
+Embedded Software Specialist with a strong background in **electronics and embedded systems**, specializing in **automotive and consumer electronics** projects.  
+Expert in **embedded software development, testing, and process optimization**, delivering solutions compliant with **ASPICE, IEC Class B, and ASIL D** standards. Passionate about problem-solving, continuous improvement, and adapting to new technologies.
 
 ---
 
-## Selected Projects
-- **Low-Latency Video Pipeline (FPGA + Linux)**  
-  Minimal PL-side image processing; PS-side GStreamer encode/display; buffer management and profiling/optimization for **<10–20 ms** target latency.
-- **Userspace I/O (UIO) IP Control**  
-  Register access to Vivado IPs from Linux userspace; simple CLI tool and Python wrapper.  
-- **Yocto + GStreamer + OpenCV Integration**  
-  Custom layer, package recipes, appsink-based frame capture, C++/Python demo apps.  
-- **Test & Tool Scripts**  
-  Python/Batch automation: log collection, measurement reporting, hardware-in-the-loop helpers.
+## Professional Experience
+
+- **Embedded Software Engineer — Bertrandt Ingenieurbüro GmbH (Cologne, DE)** · *Sep 2023 – Present*  
+  - Railway and automotive projects: test specification analysis, TPT-based test case implementation (ASIL D).  
+  - MiL/SiL testing with TPT, MATLAB/Simulink, TargetLink.  
+  - CI/CD automation with Jenkins (build, test, deployment).  
+  - Modular/scalable software architectures (ASPICE SWE.2).  
+  - Development of test scripts in Python/Batch; logic analyzer measurements over RS232/USB-UART.  
+
+- **R&D Specialist Engineer — Arçelik A.Ş. (Istanbul, TR)** · *Sep 2019 – Jun 2023*  
+  - Embedded software (C, IEC Class B) for tumble dryer displays, mainboards, and motor drivers.  
+  - Developed UART-based communication driver from scratch.  
+  - Low-level peripheral drivers: UART, I2C, SPI, ADC, DAC.  
+  - Migration of legacy SW to RTOS architecture; debugging & maintenance.  
+  - PCB modifications with Altium Designer.  
+  - Data processing: Python (CSV logs, large dataset categorization).  
+  - Bluetooth sensor → Raspberry Pi integration (NeuroSky EEG project).  
+
+- **Embedded Software Engineer (Part-Time, Project-Based) — Teknolojik İşler Ofisi (Istanbul, TR)** · *Jan 2017 – Jan 2019*  
+  - Prototype design and development for industrial electronics projects.  
+  - Data communication and hardware/software integration.
+
+- **Intern Engineer — Altınay Robot Teknolojileri (Istanbul, TR)** · *Aug 2019 – Sep 2019*  
+  - Industrial sensor research, PCB design for distance sensors.  
+
+- **Intern Engineer — SUNNY (Atmaca Elektronik, Istanbul, TR)** · *Aug 2018 – Sep 2018*  
+  - Embedded electronics testing and documentation.
 
 ---
 
 ## Technical Skills
-**Languages:** C, C++, Python, Bash  
-**FPGA/EDA:** Vivado/Vitis, HLS (basic), Verilog/VHDL (basic-intermediate)  
-**Linux (Embedded):** Yocto, Buildroot, Device Tree, U-Boot, Kernel modules, systemd  
-**Multimedia:** GStreamer (appsink/appsrc), v4l2, OpenCV  
-**Tools:** Git, CMake, JIRA, Docker/Podman, VS Code, Markdown  
-**Domains:** Low-latency video, DMA & memory mapping, driver-userspace bridges, ASPICE practices
+- **Languages:** C, C++, Python, Matlab/Simulink, Bash  
+- **Embedded:** RTOS, Embedded Linux, IEC Class B, ASIL D, ASPICE SWE.2  
+- **Tools:** Git, JIRA, Jenkins, Altium Designer, TPT, TargetLink  
+- **Hardware:** UART, I2C, SPI, ADC, DAC, logic analyzer, PCB design/modification  
+- **Domains:** Automotive, railway, consumer electronics, embedded software testing, CI/CD
 
 ---
 
-## Education & Certifications (highlights)
-- **Embedded Linux / Yocto** – Udemy (2023)  
-- **C Programming** – Association of C and System Programmers (various terms)  
-- **Python** – Association of C and System Programmers (2024)  
-- **FreeRTOS / RTOS**, **Vivado Timing & VHDL** – Various trainings  
-> Certificates/details available in CV.
+## Education
+- **Master’s Degree — Electronics and Telecommunications Engineering**  
+  *Yildiz Technical University, Istanbul – 2024*
 
----
-
-## Community & Interests
-FPGA-based video processing, industrial Linux systems, real-time systems, and **HW-SW co-design**. In free time: maker projects, Raspberry Pi, and open-source.
+- **Bachelor’s Degree — Electrical & Electronics Engineering**  
+  *Istanbul University – 2019*
 
 ---
 
 ## 🌍 Languages
-- 🇹🇷 **Türkçe**
-- 🇬🇧 **English**
-- 🇩🇪 **Deutsch**
+- 🇹🇷 **Turkish** (Native)  
+- 🇬🇧 **English** (C1)  
+- 🇩🇪 **German** (B1)  
+
+---
+
+## Interests
+FPGA-based video processing, embedded Linux systems, real-time signal processing, and HW-SW co-design. In free time: maker projects, Raspberry Pi, and open-source contributions.
 
 ---
 
