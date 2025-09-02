@@ -33,31 +33,21 @@ Expert in **embedded software development, testing, and process optimization**, 
 
 ## Professional Experience
 
-- **Embedded Software Engineer — Bertrandt Ingenieurbüro GmbH (Cologne, DE)** · *Sep 2023 – Present*  
-  - Railway and automotive projects: test specification analysis, TPT-based test case implementation (ASIL D).  
-  - MiL/SiL testing with TPT, MATLAB/Simulink, TargetLink.  
-  - CI/CD automation with Jenkins (build, test, deployment).  
-  - Modular/scalable software architectures (ASPICE SWE.2).  
-  - Development of test scripts in Python/Batch; logic analyzer measurements over RS232/USB-UART.  
+2023 - Present, **Embedded Software Engineer / Bertrandt Ingenieurbüro GmbH**, Cologne, Germany.  
+*Engineering service provider (Ingenieurbüro) in Germany, focusing on automotive, railway, and industrial projects.* [Company web site](https://www.bertrandt.com)  
 
-- **R&D Specialist Engineer — Arçelik A.Ş. (Istanbul, TR)** · *Sep 2019 – Jun 2023*  
-  - Embedded software (C, IEC Class B) for tumble dryer displays, mainboards, and motor drivers.  
-  - Developed UART-based communication driver from scratch.  
-  - Low-level peripheral drivers: UART, I2C, SPI, ADC, DAC.  
-  - Migration of legacy SW to RTOS architecture; debugging & maintenance.  
-  - PCB modifications with Altium Designer.  
-  - Data processing: Python (CSV logs, large dataset categorization).  
-  - Bluetooth sensor → Raspberry Pi integration (NeuroSky EEG project).  
+2019 - 2023, **R&D Specialist Engineer / Arçelik A.Ş. (Tumble Dryer Plant)**, Istanbul, Turkey.  
+*Leading home appliances manufacturer, the largest in Turkey with global operations — internationally known under the Beko brand.* [Company web site](https://www.arcelikglobal.com)  
 
-- **Embedded Software Engineer (Part-Time, Project-Based) — Teknolojik İşler Ofisi (Istanbul, TR)** · *Jan 2017 – Jan 2019*  
-  - Prototype design and development for industrial electronics projects.  
-  - Data communication and hardware/software integration.
+2017 - 2019, **Embedded Software Engineer / Teknolojik İşler Ofisi**, Istanbul, Turkey.  
+*Small R&D office specialized in technology prototyping and electronics projects.* [Company web site](https://www.teknolojikisler.com)  
 
-- **Intern Engineer — Altınay Robot Teknolojileri (Istanbul, TR)** · *Aug 2019 – Sep 2019*  
-  - Industrial sensor research, PCB design for distance sensors.  
+2019, **Intern Engineer / Altınay Robot Teknolojileri A.Ş.**, Istanbul, Turkey.  
+*Turkish robotics and automation company, active in defense and industrial solutions.* [Company web site](https://www.altinay.com)  
 
-- **Intern Engineer — SUNNY (Atmaca Elektronik, Istanbul, TR)** · *Aug 2018 – Sep 2018*  
-  - Embedded electronics testing and documentation.
+2018, **Intern Engineer / SUNNY (Atmaca Elektronik A.Ş.)**, Istanbul, Turkey.  
+*Consumer electronics manufacturer, producing TVs, set-top boxes, and small home appliances.* [Company web site](https://www.sunny.com.tr)  
+
 
 ---
 
@@ -71,11 +61,18 @@ Expert in **embedded software development, testing, and process optimization**, 
 ---
 
 ## Education
-- **Master’s Degree — Electronics and Telecommunications Engineering**  
-  *Yildiz Technical University, Istanbul – 2024*
 
-- **Bachelor’s Degree — Electrical & Electronics Engineering**  
-  *Istanbul University – 2019*
+2023, **MSc, Electronics and Telecommunications Engineering**(not completed,on hold). Yildiz Technical University, Istanbul, Turkey.  
+Status: Coursework completed; thesis not finalized due to relocation abroad.
+Area of Study: Embedded Systems and Telecommunications  
+Thesis Topic: (pending completion — focus on embedded software and real-time systems)  
+Advisor: Assoc. Prof. Serkan Kurt  
+Field: Embedded Systems
+CGPA: 3.43 / 4.00  
+
+2019, **BSc, Electrical and Electronics Engineering**. Istanbul University, Istanbul, Turkey.  
+Specialization Fields: Electronics and Telecommunications
+CGPA: 2.78/4.00  
 
 ---
 
