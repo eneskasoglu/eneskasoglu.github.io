@@ -12,7 +12,7 @@ title: "About me"
 Embedded Software Engineer · Cologne, DE  
 
 <p style="text-align:center;">
-  <a href="mailto:eneskasoglu@gmail.com"><i class="fas fa-envelope"></i> eneskasoglu@gmail.com</a> · 
+  <a href="mailto:enes@eneskasoglu.com"><i class="fas fa-envelope"></i> eneskasoglu@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/eneskasoglu" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> · 
   <a href="https://github.com/eneskasoglu" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 </p>
