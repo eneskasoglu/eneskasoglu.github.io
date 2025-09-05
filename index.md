@@ -8,11 +8,12 @@ title: "About me"
 
 <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Enes Kasoglu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
 
-# Enes Kaşoğlu
-Embedded Software Engineer · Cologne, DE  
+<h1 align="center">Enes Kaşoğlu</h1>
+<p align="center">Embedded Software Engineer · Cologne, Germany</p>
+
 
 <p style="text-align:center;">
-  <a href="mailto:enes@eneskasoglu.com"><i class="fas fa-envelope"></i> eneskasoglu@gmail.com</a> · 
+  <a href="mailto:enes@eneskasoglu.com"><i class="fas fa-envelope"></i> enes@eneskasoglu.com</a> · 
   <a href="https://www.linkedin.com/in/eneskasoglu" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> · 
   <a href="https://github.com/eneskasoglu" target="_blank"><i class="fab fa-github"></i> GitHub</a>
 </p>
@@ -26,8 +27,15 @@ Embedded Software Engineer · Cologne, DE
 ---
 
 ## About Me
-Embedded Software Specialist with a strong background in **electronics and embedded systems**, specializing in **automotive and consumer electronics** projects.  
-Expert in **embedded software development, testing, and process optimization**, delivering solutions compliant with **ASPICE, IEC Class B, and ASIL D** standards. Passionate about problem-solving, continuous improvement, and adapting to new technologies.
+I earned my BSc in Electrical and Electronics Engineering from Istanbul University in 2019 and started an MSc in Electronics and Telecommunications Engineering at Yildiz Technical University, where I completed all coursework with a focus on embedded systems and telecommunications. My thesis is on hold due to relocation abroad.
+
+I have been passionate about electronics and computers since my early years. Over time, I have gained hands-on experience with MCUs, SoCs, and embedded platforms, working across automotive, railway, and consumer electronics projects. I’ve developed embedded software using bare-metal, RTOS, and Embedded Linux approaches, and worked with industry standards such as ASPICE, IEC Class B, and ASIL D. My expertise spans from low-level driver development and hardware bring-up to system integration and test automation.
+
+I am particularly interested in FPGA-based systems, real-time video processing, and HW-SW co-design, applying CI/CD and DevOps practices to embedded workflows.
+
+Beyond technology, I enjoy maker projects, Raspberry Pi tinkering, and open-source contributions.
+
+That’s why I consider myself an Embedded Software & Systems Engineer with an end-to-end perspective.
 
 ---
 
@@ -40,7 +48,7 @@ Expert in **embedded software development, testing, and process optimization**, 
 *Leading home appliances manufacturer, the largest in Turkey with global operations — internationally known under the Beko brand.* [Company web site](https://www.arcelikglobal.com)  
 
 2017 - 2019, **Embedded Software Engineer / Teknolojik İşler Ofisi**, Istanbul, Turkey.  
-*Small R&D office specialized in technology prototyping and electronics projects.* [Company web site](https://www.teknolojikisler.com)  
+*Small R&D office specialized in technology prototyping and electronics projects.* [Company web site](https://www.teknolojikislerofisi.com)  
 
 2019, **Intern Engineer / Altınay Robot Teknolojileri A.Ş.**, Istanbul, Turkey.  
 *Turkish robotics and automation company, active in defense and industrial solutions.* [Company web site](https://www.altinay.com)  
@@ -52,11 +60,13 @@ Expert in **embedded software development, testing, and process optimization**, 
 ---
 
 ## Technical Skills
-- **Languages:** C, C++, Python, Matlab/Simulink, Bash  
-- **Embedded:** RTOS, Embedded Linux, IEC Class B, ASIL D, ASPICE SWE.2  
-- **Tools:** Git, JIRA, Jenkins, Altium Designer, TPT, TargetLink  
-- **Hardware:** UART, I2C, SPI, ADC, DAC, logic analyzer, PCB design/modification  
-- **Domains:** Automotive, railway, consumer electronics, embedded software testing, CI/CD
+
+- **Programming Languages:** C, C++, Python, MATLAB/Simulink, Bash  
+- **Embedded Systems:** RTOS, Embedded Linux  
+- **Standards & Processes:** IEC Class B, ASIL D, ASPICE (SWE.2)  
+- **Tools & Platforms:** Git, JIRA, Jenkins, Altium Designer, TPT, TargetLink  
+- **Hardware & Interfaces:** UART, I2C, SPI, ADC, DAC, Logic Analyzer, PCB design/modification  
+- **Application Areas:** Automotive, Railway, Consumer Electronics, Embedded Software Testing, CI/CD  
 
 ---
 
@@ -71,15 +81,16 @@ Field: Embedded Systems
 CGPA: 3.43 / 4.00  
 
 2019, **BSc, Electrical and Electronics Engineering**. Istanbul University, Istanbul, Turkey.  
-Specialization Fields: Electronics and Telecommunications
+Specialization Fields: Electronics and Telecommunications 
 CGPA: 2.78/4.00  
 
 ---
 
 ## 🌍 Languages
-- 🇹🇷 **Turkish** (Native)  
-- 🇬🇧 **English** (C1)  
-- 🇩🇪 **German** (B1)  
+
+- 🇹🇷 **Turkish** — Native  
+- 🇬🇧 **English** — B2-C1 (Professional working proficiency)  
+- 🇩🇪 **German** — B1 (Limited working proficiency)  
 
 ---
 
@@ -88,7 +99,31 @@ FPGA-based video processing, embedded Linux systems, real-time signal processing
 
 ---
 
+## Hobby 
+
+- **UART Logic Analyzer & Visualizer**  
+  Simple tool to capture UART signals via MCU and visualize them on PC using Python (matplotlib/PyQt). Demonstrates low-level communication, signal decoding, and PC–MCU integration.  
+
+- **MCUViewer (fork & experiments)**  
+  Real-time embedded variable & trace viewer for microcontrollers. Experimented with monitoring MCU internals during bare-metal development. [GitHub Link](https://github.com/eneskasoglu/)  
+
+- **12.48'' E-Paper Display Experiments**  
+  Playing with a Waveshare large-format e-paper module using C drivers. Prototyped display refresh, fonts, and partial update routines. [GitHub Link](https://github.com/eneskasoglu/)  
+
+---
+
+## Memberships
+
+- **IEEE** — Member  
+- **IEEE Robotics and Automation Society** — Past Member  
+- **[IEEE Yıldız Technical University Student Branch](https://www.ieeeytu.com/)** — Past Member  
+- **IEEE Istanbul University Student Branch** — Past Member  
+
+
+---
+
 ## Contact
-- <i class="fab fa-linkedin"></i> [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
-- <i class="fab fa-github"></i> [github.com/eneskasoglu](https://github.com/eneskasoglu)  
-- <i class="fas fa-envelope"></i> [enes@eneskasoglu.com](mailto:enes@eneskasoglu.com)
+- <i class="fab fa-linkedin"></i>  [eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
+- <i class="fab fa-github"></i>  [eneskasoglu](https://github.com/eneskasoglu)
+- <i class="fas fa-rss"></i>  [eneskasoglu](https://eneskasoglu.substack.com/)
+- <i class="fas fa-envelope"></i>  [enes@eneskasoglu.com](mailto:enes@eneskasoglu.com)
