@@ -86,7 +86,7 @@ CGPA: 2.78/4.00
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - 🇹🇷 **Turkish** — Native  
 - 🇬🇧 **English** — B2-C1 (Professional working proficiency)  
