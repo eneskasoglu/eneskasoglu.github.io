@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "CV / Profil"
+title: "Contact"
 ---
 
-<img src="/assets/img/me.png" alt="Enes Kaşoğlu" width="180" style="border-radius:12px;display:block;margin:0 auto 10px;" />
+## Contact
 
-# Enes Kaşoğlu
-Embedded & FPGA Engineer · Köln, DE  
-✉️ enes@example.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ENES) · 💻 [GitHub](https://github.com/ENES)
+You can reach me via **email** (enes@eneskasoglu.com)  
+or send me a **message on LinkedIn**:  
+- <i class="fab fa-linkedin"></i> [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
 
-[📄 CV’mi indir](assets/cv/Enes-Kasoglu-CV.pdf){: .btn .btn-primary }
+Below you can also find my other **social media profiles**:
 
----
-
-## Özet
-Gerçek zamanlı gömülü sistemler, FPGA ve Linux tabanlı çözümler. Donanımdan uygulamaya uçtan uca geliştirme.
+- <i class="fab fa-linkedin"></i>  [eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
+- <i class="fab fa-github"></i>  [eneskasoglu](https://github.com/eneskasoglu)
+- <i class="fas fa-rss"></i>  [eneskasoglu](https://eneskasoglu.substack.com/)
+- <i class="fas fa-envelope"></i>  [enes@eneskasoglu.com](mailto:enes@eneskasoglu.com)
