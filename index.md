@@ -116,7 +116,6 @@ FPGA-based video processing, embedded Linux systems, real-time signal processing
 
 - **IEEE** — Member  
 - **IEEE Robotics and Automation Society** — Past Member  
-- **[IEEE Yıldız Technical University Student Branch](https://www.ieeeytu.com/)** — Past Member  
 - **IEEE Istanbul University Student Branch** — Past Member  
 
 
