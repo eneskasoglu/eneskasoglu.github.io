@@ -9,7 +9,7 @@ permalink: /
 
 # Home
 
-This website contains my **personal info** and **projects**.  
+This website contains my personal info and projects.  
 You can navigate to the [Blog](/blog/) section to read my posts.  
 
 You can also follow me on different social media platforms listed below:  
