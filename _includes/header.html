@@ -1,35 +1,43 @@
 <header class="site-header" role="banner">
   <style>
-  .site-title {
-  font-size: 28px;     /* h1’den biraz küçük, ama belirgin */
-  font-weight: 600;    /* yarı kalın */
-  letter-spacing: -0.5px;
-  color: #111;
-  text-decoration: none;
-}
+    .site-title{
+      font-size:28px;font-weight:600;letter-spacing:-0.5px;color:#111;text-decoration:none
+    }
+    .site-header .wrapper{display:flex;align-items:center;justify-content:space-between}
+    .site-nav .trigger{display:flex;gap:14px;align-items:center}
+    .nav-trigger{position:absolute;left:-9999px}
+    .menu-icon{display:none;cursor:pointer;padding:8px}
+    .page-link i{margin-right:6px}
 
-
+    /* Mobil */
+    @media (max-width:768px){
+      .menu-icon{display:inline-block}
+      .site-nav .trigger{display:none;flex-direction:column;gap:10px;padding-top:10px}
+      .nav-trigger:checked ~ .trigger{display:flex}
+    }
   </style>
 
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ site.baseurl }}/">Enes Kaşoğlu</a>
+
     <nav class="site-nav">
+      <!-- HAMBURGER -->
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger" class="menu-icon" aria-label="Toggle navigation">
+        <svg viewBox="0 0 18 15" width="22" height="18" aria-hidden="true">
+          <path d="M18,1.5c0,0.8-0.7,1.5-1.5,1.5H1.5C0.7,3,0,2.3,0,1.5S0.7,0,1.5,0h15C17.3,0,18,0.7,18,1.5z M18,7.5
+          C18,8.3,17.3,9,16.5,9H1.5C0.7,9,0,8.3,0,7.5S0.7,6,1.5,6h15C17.3,6,18,6.7,18,7.5z M18,13.5c0,0.8-0.7,1.5-1.5,1.5H1.5
+          C0.7,15,0,14.3,0,13.5S0.7,12,1.5,12h15C17.3,12,18,12.7,18,13.5z"/>
+        </svg>
+      </label>
+
+      <!-- MENÜ -->
       <div class="trigger">
-        <a class="page-link" href="{{ site.baseurl }}/">
-          <i class="fas fa-home"></i> Home
-        </a>
-        <a class="page-link" href="{{ site.baseurl }}/about">
-          <i class="fas fa-user"></i> About
-        </a>
-        <a class="page-link" href="{{ site.baseurl }}/blog">
-          <i class="fas fa-pen"></i> Blog
-        </a>
-        <a class="page-link" href="{{ site.baseurl }}/contact">
-          <i class="fas fa-envelope"></i> Contact
-        </a>
-        <a rel="me" class="page-link" href="https://www.linkedin.com/in/eneskasoglu" target="_blank">
-          <i class="fab fa-linkedin"></i> LinkedIn
-        </a>
+        <a class="page-link" href="{{ site.baseurl }}/"><i class="fas fa-home"></i> Home</a>
+        <a class="page-link" href="{{ site.baseurl }}/about"><i class="fas fa-user"></i> About</a>
+        <a class="page-link" href="{{ site.baseurl }}/blog"><i class="fas fa-pen"></i> Blog</a>
+        <a class="page-link" href="{{ site.baseurl }}/contact"><i class="fas fa-envelope"></i> Contact</a>
+        <a rel="me" class="page-link" href="https://www.linkedin.com/in/eneskasoglu" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </div>
     </nav>
   </div>
