@@ -75,14 +75,13 @@ That’s why I consider myself an Embedded Software & Systems Engineer with an e
 2023, **MSc, Electronics and Telecommunications Engineering**(not completed,on hold). Yildiz Technical University, Istanbul, Turkey.  
 Status: Coursework completed; thesis not finalized due to relocation abroad.
 Area of Study: Embedded Systems and Telecommunications  
-Thesis Topic: (pending completion — focus on embedded software and real-time systems)  
+Thesis Topic: 
 Advisor: Assoc. Prof. Serkan Kurt  
 Field: Embedded Systems
 CGPA: 3.43 / 4.00  
 
 2019, **BSc, Electrical and Electronics Engineering**. Istanbul University, Istanbul, Turkey.  
 Specialization Fields: Electronics and Telecommunications 
-CGPA: 2.78/4.00  
 
 ---
 
@@ -95,11 +94,12 @@ CGPA: 2.78/4.00
 ---
 
 ## Interests
-FPGA-based video processing, embedded Linux systems, real-time signal processing, and HW-SW co-design. In free time: maker projects, Raspberry Pi, and open-source contributions.
+I am particularly interested in embedded Linux systems, real-time signal processing, and hardware-software co-design.  
+In my free time, I enjoy working on maker projects and contributing to open-source communities.
 
 ---
 
-## Hobby 
+## Projects 
 
 - **UART Logic Analyzer & Visualizer**  
   Simple tool to capture UART signals via MCU and visualize them on PC using Python (matplotlib/PyQt). Demonstrates low-level communication, signal decoding, and PC–MCU integration.  
@@ -118,6 +118,15 @@ FPGA-based video processing, embedded Linux systems, real-time signal processing
 - **IEEE Robotics and Automation Society** — Past Member  
 - **IEEE Istanbul University Student Branch** — Past Member  
 
+
+---
+
+## Attended Training
+
+- Embedded/Software
+- Digital/FPGA
+- Hardware
+- CI/CD
 
 ---
 
