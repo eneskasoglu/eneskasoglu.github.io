@@ -7,7 +7,7 @@ permalink: /
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-# Home
+# Homepage
 
 
 Hi 👋 I'm Enes, an Embedded Software Engineer based in Cologne, Germany.   
