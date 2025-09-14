@@ -17,7 +17,7 @@ Previously, I worked as an R&D Specialist Engineer at Arçelik and Embedded Soft
 
 ---
 
-This website contains my personal info, experiences, and side projects.  
+This website contains my [personal info](/about)  , experiences, and side projects.  
 You can navigate to the [Blog](/blog) section to read my posts.  
 
 You can also follow me on different social media platforms listed below:  
