@@ -9,10 +9,9 @@ permalink: /
 
 # Homepage
 
-
 Hi 👋 I'm Enes, an Embedded Software Engineer based in Cologne, Germany.   
 
-I design and develop solutions in embedded systems, FPGA, and Linux-based platforms.  
+I am an Embedded Software Engineer with expertise in C/C++, RTOS, FPGA, and Linux-based platforms.  
 Currently, I work at Bertrandt Ingenieurbüro GmbH as an Embedded Software Engineer.  
 Previously, I worked as an R&D Specialist Engineer at Arçelik and Embedded Software Engineer at Teknolojik İşler Ofisi.  
 
