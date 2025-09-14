@@ -7,6 +7,9 @@ permalink: /
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+# Home
+
+
 Hi 👋 I'm Enes, an Embedded Software Engineer based in Cologne, Germany.   
 
 I design and develop solutions in embedded systems, FPGA, and Linux-based platforms.  
@@ -16,7 +19,7 @@ Previously, I worked as an R&D Specialist Engineer at Arçelik and Embedded Soft
 ---
 
 This website contains my personal info, experiences, and side projects.  
-Feel free to explore the [Blog](/blog/) section for my latest posts and notes.  
+Feel free to explore the [Blog](/blog) section for my latest posts and notes.  
 
 You can also follow me on different social media platforms listed below:  
 
