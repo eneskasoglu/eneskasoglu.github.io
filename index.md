@@ -15,7 +15,9 @@ I am an Embedded Software Engineer with expertise in C/C++, RTOS, FPGA, and Linu
 Currently, I work at Bertrandt Ingenieurbüro GmbH as an Embedded Software Engineer.  
 Previously, I worked as an R&D Specialist Engineer at Arçelik and Embedded Software Engineer at Teknolojik İşler Ofisi.
 For more details, check the [About](/about) page.  
+
 ---
+
 This website contains my [personal info](/about)  , experiences, and side projects.  
 You can navigate to the [Blog](/blog) section to read my posts.  
 
