@@ -89,7 +89,7 @@ Specialization Fields: Electronics and Telecommunications
 
 - 🇹🇷 **Turkish** — Native  
 - 🇬🇧 **English** — B2-C1 (Professional working proficiency)  
-- 🇩🇪 **German** — B1 (Limited working proficiency)  
+- 🇩🇪 **German** — B1 (Limited working proficiency, telc B1 certified)
 
 ---
 
@@ -102,7 +102,7 @@ In my free time, I enjoy working on maker projects and contributing to open-sour
 ## Projects 
 
 - **UART Logic Analyzer & Visualizer**  
-  Simple tool to capture UART signals via MCU and visualize them on PC using Python (matplotlib/PyQt). Demonstrates low-level communication, signal decoding, and PC–MCU integration.  
+  Simple tool to capture UART signals via MCU and visualize them on PC using Python (matplotlib/PyQt). Demonstrates low-level communication, signal decoding, and PC–MCU integration.   [GitHub Link](https://github.com/eneskasoglu/)  
 
 - **MCUViewer (fork & experiments)**  
   Real-time embedded variable & trace viewer for microcontrollers. Experimented with monitoring MCU internals during bare-metal development. [GitHub Link](https://github.com/eneskasoglu/)  
