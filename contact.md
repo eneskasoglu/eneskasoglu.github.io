@@ -13,4 +13,4 @@ You can reach me via email
 
 or send me a message on LinkedIn:  
 - <i class="fab fa-linkedin"></i> [linkedin.com/in/eneskasoglu](https://www.linkedin.com/in/eneskasoglu)  
-
+ 
